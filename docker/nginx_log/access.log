@@ -1,0 +1,2 @@
+172.19.0.1 - - [31/Oct/2023:04:30:48 +0000] "GET /phpmyadmin/index.php?route=/ HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" "-"
+172.19.0.1 - - [31/Oct/2023:04:30:48 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://localhost/phpmyadmin/index.php?route=/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" "-"
